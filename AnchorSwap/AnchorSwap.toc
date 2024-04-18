@@ -3,4 +3,4 @@
 ## Author: Erloys
 ## Version: 1.0.0
 ## Notes: Allows for anchored pagination.
-DefPage.lua
+AnchorSwap.lua
