@@ -1,5 +1,5 @@
 local function log(msg)
-    DEFAULT_CHAT_FRAME:AddMessage("DEPAG: " .. msg, 1, 1, 0.5);
+    --DEFAULT_CHAT_FRAME:AddMessage("DEPAG: " .. msg, 1, 1, 0.5);
 end
 
 local UpdateInterval = 1.0;
